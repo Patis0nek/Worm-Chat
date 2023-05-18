@@ -1,70 +1,40 @@
-# Getting Started with Create React App
+# Worm Chat
+Worm Chat is a messenger-like chat application that provides a platform for users to communicate on a global chat channel. It allows registered users to connect and engage in conversations with other users in real-time.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Purpose
+The purpose of Worm Chat is to foster communication and interaction among users in a convenient and user-friendly environment. The application aims to create a global community where users can share thoughts, exchange ideas, and connect with like-minded individuals.
 
-## Available Scripts
+## Features
+- Global Chat Channel: Users can join a global chat channel where they can engage in conversations with other registered users.
+- Real-Time Messaging: The application enables real-time messaging, allowing users to send and receive messages instantly.
+- User Registration: Users can create an account and log in to access the chat functionalities.
+- Message Notifications: Users receive notifications for new messages to stay updated on ongoing conversations.
+- Emojis and Stickers: The application provides a selection of emojis and stickers to enhance expression during conversations.
 
-In the project directory, you can run:
+## Technologies Used
+Worm Chat is built using the following technologies:
 
-### `npm start`
+- React: A JavaScript library for building user interfaces, allowing for the creation of a dynamic and responsive chat application.
+- Firebase: A comprehensive development platform that provides real-time database functionality, user authentication, and cloud messaging capabilities.
+- Firestore: Part of the Firebase platform, Firestore is used to store and retrieve chat messages, user information, and other relevant data.
+- Material-UI: A popular React UI framework that offers pre-built components and styling options to create an intuitive and visually appealing user interface.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Getting Started
+To view the Payment System Presentation locally, follow these steps:
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+1. Clone the repository: git clone https://github.com/Patis0nek/Worm-Chat.git
+2. Navigate to the project directory: cd random-selection-number-website
+3. Install the dependencies: npm install
+4. Start the development server: npm start
+5. Open your browser and access the website at http://localhost:3000
 
-### `npm test`
+## Contributing
+Contributions to Worm Chat are welcome! If you have any ideas, improvements, or suggestions, please feel free to submit a pull request. Ensure that you follow the project's code style and provide detailed information about your changes.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+##  Acknowledgments
+I would like to express my gratitude to the community of users who have contributed to the development and improvement of Worm Chat. Their feedback and support have played a significant role in shaping the application.
 
-### `npm run build`
+## Contact
+If you have any questions, suggestions, or feedback, please feel free to reach out to me at kuna.patryk@gmail.com or visit my portfolio site at patrykkuna.com.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Thanks for trying Worm Chat
