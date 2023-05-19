@@ -35,6 +35,6 @@ Contributions to Worm Chat are welcome! If you have any ideas, improvements, or 
 I would like to express my gratitude to the community of users who have contributed to the development and improvement of Worm Chat. Their feedback and support have played a significant role in shaping the application.
 
 ## Contact
-If you have any questions, suggestions, or feedback, please feel free to reach out to me at kuna.patryk@gmail.com or visit my portfolio site at patrykkuna.com.
+If you have any questions, suggestions, or feedback, please feel free to reach out to me at kuna.patryk@gmail.com or visit my portfolio site at [patrykkuna.com.](https://patrykkuna.com)
 
 Thanks for trying Worm Chat
